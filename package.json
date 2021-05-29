@@ -1,0 +1,25 @@
+{
+  "name": "home-design",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "heroku-postbuild": "npm run build"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.1",
+    "ant-design-vue": "^1.7.4",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.5.3",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.8.2",
+    "eslint": "^7.27.0",
+    "nuxt": "^2.14.12"
+  },
+  "devDependencies": {
+    "less": "^4.1.1",
+    "less-loader": "^8.0.0"
+  }
+}
