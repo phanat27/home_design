@@ -4,7 +4,7 @@
     <div>
       <div>
         <b-navbar toggleable="lg" type="dark" variant="info">
-          <b-navbar-brand href="#"> <h1 class="text-white"><strong>รื่นเริง</strong></h1> </b-navbar-brand>
+          <b-navbar-brand href="#"> <h2 class="text-white"><strong>รื่นเริง</strong></h2> </b-navbar-brand>
 
           <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
