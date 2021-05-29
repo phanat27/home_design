@@ -1,5 +1,9 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  mode: 'spa',
+  router: {
+     base: '/home-design/'
+   },
   head: {
     title: 'home-design',
     htmlAttrs: {
@@ -26,7 +30,6 @@ export default {
   plugins: [
     '@/plugins/antd-ui'
   ],
-
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
 
